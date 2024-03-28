@@ -1,17 +1,5 @@
 # Wikipedia Award Winners Clustering
-1. First ordered list item
-2. Another item
-  * Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-  1. Ordered sub-list
-4. And another item.
+## Description
+This project dives into the rich world of Wikipedia to explore and categorize pages dedicated to award-winning individuals across various fields. Utilizing sophisticated machine learning and natural language processing (NLP) techniques, our objective is to cluster Wikipedia pages in a way that reveals underlying patterns, similarities, and thematic groupings among these distinguished figures. By analyzing the textual content of pages related to award recipients, we aim to uncover insights into commonalities in their achievements, careers, and contributions. This clustering endeavor not only aids in the systematic organization of information but also enhances our understanding of the characteristics that link these winners, potentially shedding light on the pathways to excellence and recognition.
 
-   You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
 
-   To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-   Note that this line is separate, but within the same paragraph.⋅⋅
-   (This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
-
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
