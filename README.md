@@ -22,7 +22,7 @@ Getting started with our text clustering project is straightforward. Here’s ho
   cd Machine-Learning
 
 4. Install Required Libraries:
-   This project makes use of several Python libraries for web scraping, data manipulation, natural language processing (NLP), text analysis, and       
+  This project makes use of several Python libraries for web scraping, data manipulation, natural language processing (NLP), text analysis, and       
    visualization.
    Ensure you have Python 3.6 or newer installed on your system.
    The required libraries can be installed using the following command:
