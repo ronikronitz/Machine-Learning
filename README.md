@@ -19,16 +19,21 @@ Getting started with our text clustering project is straightforward. Here’s ho
   
 3. Prepare Your Workspace:
 * Move into the project directory:
+* ```bash
   cd Machine-Learning
-
+  ```
+  
 4. Install Required Libraries:
   This project makes use of several Python libraries for web scraping, data manipulation, natural language processing (NLP), text analysis, and       
    visualization.
    Ensure you have Python 3.6 or newer installed on your system.
    The required libraries can be installed using the following command:
+   ```bash
    pip install wikipedia pandas nltk scikit-learn matplotlib requests numpy
+   ```
 
    Post-Installation Steps:
+   ```bash
    import nltk
    nltk.download('stopwords')
    nltk.download('punkt')
@@ -36,13 +41,13 @@ Getting started with our text clustering project is straightforward. Here’s ho
    wikipedia.set_lang("en")
    import VarianceThreshold
    import numpy as np
-   
+   ```
 ## Usage
 
 With your environment set up and dependencies installed, you're ready to run the project:
 
 1. **Start Jupyter Notebook**:
-    If the project is notebook-based (like `WIKIDATA.ipynb`), launch Jupyter Notebook:
+    launch Jupyter Notebook:
     ```bash
     jupyter notebook
     ```
